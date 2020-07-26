@@ -1,0 +1,50 @@
+# Backend
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Frontend
+
+#idea
+.idea
+
+# dependencies
+/e-shopping-frontend/node_modules
+
+# testing
+/e-shopping-frontend/coverage
+
+# package-lock.json
+/e-shopping-frontend/package-lock.json
+
+# production
+/e-shopping-frontend/build
+/e-shopping-frontend/documentation
+
+# misc
+e-shopping-frontend/.DS_Store
+e-shopping-frontend/.env.local
+e-shopping-frontend/.env.development.local
+e-shopping-frontend/.env.test.local
+e-shopping-frontend/.env.production.local
+
+e-shopping-frontend/npm-debug.log*
+e-shopping-frontend/yarn-debug.log*
+e-shopping-frontend/yarn-error.log*
