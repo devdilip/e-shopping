@@ -25,6 +25,9 @@
 #idea
 .idea
 
+# misc
+.DS_Store
+
 # dependencies
 /e-shopping-frontend/node_modules
 
